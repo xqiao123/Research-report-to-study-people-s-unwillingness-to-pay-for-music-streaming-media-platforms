@@ -1,1 +1,4 @@
-# Research-report-to-study-people-s-unwillingness-to-pay-for-music-streaming-media-platforms
+# Research report to study people's unwillingness to pay for music streaming media platforms
+Description of broad problem area
+Even though streaming has even begun to affect the way hit songs are made, with young acts like Lorde, Imagine Dragons and Baauer gaining much of their popularity and momentum from streaming platforms, streaming companies have encountered a stubborn problem: Music lovers will consume large amounts of music as long as it is free, but getting them to pay a monthly subscription has proved much more difficult.  
+An increasing number of people want to listen to music for free, causing that streaming media companies lose a large number of users. Furthermore, given that no one pays for subscription, companies that invest in purchasing copyrightable musical work will lose a huge amount of money. Thus, the results of this study provide managers with methods to reduce costs of losing users.
